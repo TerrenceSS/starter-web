@@ -1,10 +1,12 @@
 <html>
-<title>Starter Web Project<title>
-<body>
-Introduction
+ <head>
+    <title>Starter Web Project<title>
+ <head>         
+ <body>
+  Introduction
 
-Purpose
+  Purpose
 
-How To Contribute
-<body>
+  How To Contribute
+  <body>
 <html>
