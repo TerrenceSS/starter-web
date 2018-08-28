@@ -1,7 +1,10 @@
-#Starter Web Project
+<html>
+<title>Starter Web Project<title>
+<body>
+Introduction
 
-##Introduction
+Purpose
 
-##Purpose
-
-##How To Contribute
+How To Contribute
+<body>
+<html>
